@@ -1,5 +1,3 @@
-# jsWeatherAPI
-
 # 🌤️ Weather App
 
 A simple and clean weather application built using JavaScript and a public weather API. It allows users to search for the current weather in any city around the world.
