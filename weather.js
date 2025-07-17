@@ -1,4 +1,4 @@
-const apiKey = "cb322f2922844c0c9a591154251707";
+const apiKey = "YOUR-API-KEY";
 
 class Weather {
     constructor() {
